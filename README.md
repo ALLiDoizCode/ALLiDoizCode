@@ -16,6 +16,6 @@ U.S. Marine Corps veteran · Charleston, SC
   and [Permaweb MCP](https://github.com/ALLiDoizCode/Permaweb-MCP), an MCP server for
   deploying apps on Arweave.
 
-**Stack:** TypeScript · Node.js · Rust · Bevy · Docker · Claude Code · MCP
+**Stack:** TypeScript · Node.js · Rust · Bevy · Docker · GitHub Actions · Claude Code · MCP
 
 Open to senior and forward-deployed AI engineering roles · [LinkedIn](https://www.linkedin.com/in/jonathandgreen/)
